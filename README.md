@@ -1,3 +1,4 @@
+# Introduction of the project
 This is a final project in my first year's study in Python. 
 It's about favorite computers investagetion of their functions.
 It also have a interactive window which inable people to get the information through some simple clicks.
